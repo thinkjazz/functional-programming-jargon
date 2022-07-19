@@ -17,7 +17,7 @@ __Translations__
 * [Rust World](https://github.com/JasonShin/functional-programming-jargon.rs)
 * [Korean](https://github.com/sphilee/functional-programming-jargon)
 * [Haskell Turkish](https://github.com/mrtkp9993/functional-programming-jargon)
-* [Russian / Русский](https://github.com/thinkjazz/functional-programming-jargon)
+* [Haskell Russian](https://github.com/epogrebnyak/functional-programming-jargon)
 
 __Оглавление__
 <!-- RM(noparent,notop) -->
